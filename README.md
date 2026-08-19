@@ -12,4 +12,5 @@ View my Computational Thinking Exercise (q1/ctskillsMagnesiumCapillano.md)
 
 ### Chinese Zodiac
 View my Chinese Zodiac Finder (q1/zodiacMagnesiumCapillano.md) 
-View the code to my Chinese Zodiac Finder 
+---
+View the code to my Chinese Zodiac Finder (q1/zodiacMagnesiumCapillano.py)
