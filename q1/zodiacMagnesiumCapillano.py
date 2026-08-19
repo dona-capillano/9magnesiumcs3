@@ -15,3 +15,9 @@ zodiac_signs = [
 
 baseline_year = 1900
 birth_year = int(input("Enter your birth year: "))
+baseline_year = 1900
+if birth_year < baseline_year:
+    print("Inalid year, it shouldn't be earlier than 1900")
+else: 
+    index = (birth_year - baseline_year) % 12
+    print (f"Your Chinese zodiac Sign is: {zodiac_signs[index]}")
