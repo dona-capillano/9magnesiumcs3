@@ -1,4 +1,7 @@
 # Chinese Zodiac sign Finder
+**Name:** Dona
+**Section:** Magnesium
+**School Year:** 2026-2027
 ## Requirements
 - Ask user to enter a year of birth (baseline year: 1900)
 - Validate input so it is not earlier than 1900
