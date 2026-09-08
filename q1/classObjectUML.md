@@ -15,7 +15,10 @@
 | Energize(Title)                  | Some songs help energize people. |
 | Trigger memories                 | Most songs trigger long-lost memories. |
 
-<img width="736" height="1053" alt="Songs" src="https://github.com/user-attachments/assets/47634efd-264b-4100-a798-3ea5f8f0f40e" />
+<img width="736" height="1053" alt="Songs" src="https://github.com/user-attachments/assets/47634efd-264b-4100-a798-3ea5f8f0f40e" /> 
+
+### Revised UML
+<img width="736" height="1053" alt="Songs (1)" src="https://github.com/user-attachments/assets/3341979e-d8d3-4aa6-a709-a4e299687f59" />
 
 ## Answer these three questions briefly.
 ### 1. Why did you choose this class?
