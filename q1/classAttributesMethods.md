@@ -14,10 +14,10 @@ Link to my previous activity:
 
 ## Updated UML Class Diagram 
 <img width="736" height="1053" alt="Songs (1)" src="https://github.com/user-attachments/assets/368621e8-cc81-43e7-90d4-c7b535eea02e" />
-[ClassDiagram](q1/Revised UML.png)
 ## Python Implementation
-[View Python Source}(q1/classImplementation.py)
+[Python Source](q1/classImplementation.py)
+
 ## Test Run
-[Test run](q1/imagesclassTestRun.png)
+<img width="1430" height="872" alt="imagesclassTestRun" src="https://github.com/user-attachments/assets/4f0f50d5-9a71-4576-a366-73f8c765ea72" />
 ## Object Diagram
 
