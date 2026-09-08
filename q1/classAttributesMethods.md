@@ -22,3 +22,12 @@ Link to my previous activity:
 ## Object Diagram
 <img width="401" height="542" alt="image" src="https://github.com/user-attachments/assets/c4f702ca-1799-47b6-b488-960f3eca8589" />
 
+## Analysis
+### Why did you make your chosen attribute private?
+- I believe that a person shouldn't listen to a song they don't like just because they like the artist.
+### Which method changes the state of your object?
+- The set_artist() method changes the object's state by updating the private __private_artist attribute. 
+### How did your two objects demonstrate that instances are independent?
+- When set_artist() was executed on song1, its artist value was successfully updated in memory. However, song2 retained its original artist ("88rising and NIKI") in the --- AFTER --- test output. This proves that each object maintains its own independent state.
+### What is the difference between your class diagram and your object diagram?
+- The class diagram is a blueprint defining the attributes, data types, and methods of the Songs class, the object diagrams is a dynamic snapshot showing specific instances and their actual values at a specific point during program execution.
