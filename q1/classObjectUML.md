@@ -24,3 +24,11 @@
 - I think the most important property is the Genre as each of us have different taste in music and in songs.
 # 3. Which method do you think is the most useful? Why?
 - I think the most useful method is Entertain because a song should entertain the listeners to get them to continue listening.
+
+# No major changes were needed from my irignal design.
+|Attribute | Data Type | Visibility | Why Public/Private? |
+|---|---|---|---|
+| Title | String | Public | The title of the song should always be visible so it ca be easily accessed and displayed. |
+| Genre | String | Public | The genre of the song should be always be visible so people can see if they like the specific type of music. |
+| Artist | String | Private | The artist of the song should be in private as a person dont have to know who the artist is to enjoy the song. |
+| Album | String | Public | The album should be public as it is important to know what album the song is from. |
