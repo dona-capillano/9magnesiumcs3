@@ -19,3 +19,6 @@
 
 ### OOPAct
 #### [View my OOPAct](q1/classObjectUML.md)
+
+### OOPAct-PartII
+#### [View my OOPAct-PartII](q1/classAttributesMethods.md)
