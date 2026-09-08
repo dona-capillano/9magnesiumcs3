@@ -35,3 +35,5 @@ if __name__ == "__main__":
     print("--- AFTER ---")
     print(f"Object 1: {song1.title} | Artist: {song1.get_artist()} | Genre: {song1.genre} | Album: {song1.album}")
 
+
+
