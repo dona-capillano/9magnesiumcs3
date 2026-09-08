@@ -25,7 +25,7 @@
 # 3. Which method do you think is the most useful? Why?
 - I think the most useful method is Entertain because a song should entertain the listeners to get them to continue listening.
 
-# No major changes were needed from my irignal design.
+# No major changes were needed from my orignal design.
 |Attribute | Data Type | Visibility | Why Public/Private? |
 |---|---|---|---|
 | Title | String | Public | The title of the song should always be visible so it ca be easily accessed and displayed. |
