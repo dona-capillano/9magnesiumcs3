@@ -19,6 +19,11 @@ Explanation: The 'Liked Songs Folder' contains 'Songs'.
 | 1 | Exactly one |
 | 0..* | Zero or more |
 
+# Multiplicity:
+Multiplicity: '1' to '0..*'
+Explanation: Exactly one 'Liked Songs Folder' can contain zero or more 'Songs'
+
+## UML Class Relationship Diagram
 
 
 
