@@ -26,10 +26,10 @@ Explanation: Exactly one 'Liked Songs Folder' can contain zero or more 'Songs'
 ## UML Class Relationship Diagram
 [Class Relationship Diagram](q1/imagesclassRelationshipDiagram.png)
 
-##Python Implementation 
+## Python Implementation 
 [View Python Source](q1/classRelationships.py)
 
-##Test Run 
+## Test Run 
 [Relationship Test Run](q1/imageRelationshipTestRun.png)
 
 ## Object Relationship Diagram 
