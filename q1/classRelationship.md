@@ -13,9 +13,11 @@ Description: Songs in my Liked Songs folder
 
 ## Association
 Relationship: Liked Songs Folder HAS Songs
-Explanation: contains 
+Explanation: The 'Liked Songs Folder' contains 'Songs'.
 | UML | Meaning |
 |---|---|
+| 1 | Exactly one |
+| 0..* | Zero or more |
 
 
 
