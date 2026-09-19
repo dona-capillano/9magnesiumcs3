@@ -24,16 +24,16 @@ Multiplicity: '1' to '0..*'
 Explanation: Exactly one 'Liked Songs Folder' can contain zero or more 'Songs'
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](q1/imagesclassRelationshipDiagram.png)
+[Class Relationship Diagram](q1/imagesclassRelationshipDiagram.png)
 
 ##Python Implementation 
 [View Python Source](q1/classRelationships.py)
 
 ##Test Run 
-![Relationship Test Run](q1/imageRelationshipTestRun.png)
+[Relationship Test Run](q1/imageRelationshipTestRun.png)
 
 ## Object Relationship Diagram 
-![Object Relationship Diagram]()
+[Object Relationship Diagram]()
 
 ## Analysis
 ### What is the association between your two classes?
