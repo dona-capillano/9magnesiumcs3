@@ -24,6 +24,25 @@ Multiplicity: '1' to '0..*'
 Explanation: Exactly one 'Liked Songs Folder' can contain zero or more 'Songs'
 
 ## UML Class Relationship Diagram
+![Class Relationship Diagram]()
 
+##Python Implementation 
+[View Python Source](q1/classRelationships.py)
 
+##Test Run 
+![Relationship Test Run](q1/imageRelationshipTestRun.png)
 
+## Object Relationship Diagram 
+![Object Relationship Diagram]()
+
+## Analysis
+### What is the association between your two classes?
+The association is "contains" HAS-A relationship where LikedSongsFolder acts as a container for Songs. This folder allows to manage individual song tracks and access their properties directly through object interaction.
+### What multiplicity did you choose and why?
+I chose a 1 to 0..* multiplicity as one folder can hold 0 or many songs. A folder can exist while empty and have song preferences added to it over time.
+### How did you implement the relationship in Python?
+It is implemented by giving LikedSongsFolder an empty list attribute. 
+### Why did you store an object reference instead of copying its data?
+Storing references prevents data duplication and keeps objects synchronized.
+### If your relationship uses many, why is a list appropriate?
+A list is ideal as it resizes as songs are added or removed. It helps preserve the order of song preferences, allowing the folder to easily loops each track.
