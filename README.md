@@ -22,3 +22,6 @@
 
 ### OOPAct-PartII
 #### [View my OOPAct-PartII](q1/classAttributesMethods.md)
+
+### OOPAct-PartIII
+#### [View my OOPAct-PartIII(q1/classRelationship.md)
