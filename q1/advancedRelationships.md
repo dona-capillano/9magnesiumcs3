@@ -23,7 +23,7 @@ Explanation: 'LikedSongsFolder' holds reference to 'Songs' and 'LiveSong' ojects
 ## Advanced UML Diagram
 [Advanced UML]()
 ## Python Implementation 
-[Source Code](advancedRelationships.py)
+[Source Code](advanceRelationships.py)
 ## Test Run
 [Test](images/advancedTestRun.png)
 ## Object Diagram
