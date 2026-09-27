@@ -13,7 +13,7 @@ Child: 'LiveSongs'
 Explanation: it inherits basic properties and adds 'venue'. 
 
 ## Inheritance UML
-[Inheritance](q1/imagesadvancedClassDiagram.png)
+[Inheritance]()
 ## Composition/Aggregation
 
 Relationship: Aggregation (Weak HAS-A)
@@ -21,10 +21,10 @@ Relationship: Aggregation (Weak HAS-A)
 Explanation: 'LikedSongsFolder' holds reference to 'Songs' and 'LiveSong' ojects in a list.
 
 ## Advanced UML Diagram
-[Advanced UML]()
+[Advanced UML](q1/imagesadvancedClassDiagram.png)
 ## Python Implementation 
 [Source Code](advanceRelationships.py)
 ## Test Run
 [Test](images/advancedTestRun.png)
 ## Object Diagram
-[Objects]()
+[Objects](q1/imagesadvancedObjectDiagram.png)
