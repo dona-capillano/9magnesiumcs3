@@ -13,7 +13,7 @@ Child: 'LiveSongs'
 Explanation: it inherits basic properties and adds 'venue'. 
 
 ## Inheritance UML
-[Inheritance]()
+[Inheritance](q1/imagesinheritanceDiagram.png)
 ## Composition/Aggregation
 
 Relationship: Aggregation (Weak HAS-A)
