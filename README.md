@@ -25,3 +25,6 @@
 
 ### OOPAct-PartIII
 #### [View my OOPAct-PartIII](q1/classRelationship.md)
+
+### OOPAct-PartIV
+#### [View my OOPAct-PartIV](q1/advancedRelationships.md)
