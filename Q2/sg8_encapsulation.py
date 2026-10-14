@@ -10,5 +10,10 @@ class BankAccount #creates the class
         print(f"Account Number: {self._account_number}")
         print(f"Balance: {self._balance}")
 
-    def get_balance(self):
+   def get_balance(self):
       return self._balance
+   def set_balance(self,value):
+      print()
+      print(f"Update balance to: {value}")
+      
+      if value < 0
