@@ -30,7 +30,7 @@
 #### [View my OOPAct-PartIV](q1/advancedRelationships.md)
 
 
-# Quarter 1
+# Quarter 2
 
 ## Activities
 ### Study Guide 8 - Encapsulation
