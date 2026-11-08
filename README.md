@@ -40,4 +40,4 @@
 #### [View my Inheritance Activity](Q2/SG9_Inheritance)
 
 ### Study Guide 10
-#### [View my Zoo Management System Activity](Q2/Zoo Management System.py)
+#### [View my Zoo Management Activity]()
