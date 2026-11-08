@@ -6,22 +6,21 @@ class Animals:  #creates class
   def eat(self):
       pass
 
-class Lion(Animal):
+class Lion(Animals):
   def make_sound(self):
-      def make_sound(self):
-          return f"{self.name} raors loudly!"
-      def eat(self):
-          return f"{self.name} eats fresh meat."
+    return f"{self.name} raors loudly!"
+  def eat(self):
+    return f"{self.name} eats fresh meat."
 
-class Elephant(Animal):
+class Elephant(Animals):
   def make_sound(self):
-    return f"{self..name} trumpets!"
+    return f"{self.name} trumpets!"
   def eat(self):
     return f"{self.name} eats grass and fruits."
 
-class Monkey(Animal):
+class Monkey(Animals):
   def make_sound(self):
-    return f"{self.name} chatters!
+    return f"{self.name} chatters!"
   def eat(self): 
     return f"{self.name} eats bananas."
 
