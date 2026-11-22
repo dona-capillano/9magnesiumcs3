@@ -1,1 +1,1 @@
-hehe
+## A. What is duck typing, as explained in the video?
